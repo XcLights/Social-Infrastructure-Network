@@ -4,12 +4,14 @@
 
 **Research Question**: What can the nature of social infrastructure tell us about a population's ability to adapt to changes?
 
-<ins>**Project Description**<ins>
+<ins>**Project Description**<ins>  
 Mapping and evaluating social infrastructure beginning at the County level with the potential to scale globally.
 
 ## Introduction
 
-Since the time of Heraclitus, perhaps even earlier, we have suspected that change is constant (Graham, 2023). Effects of climate change today are increasingly apparent from reports of natural disasters, record-breaking storm intensity, displaced people, outbreaks of contagious disease, conflict and disagreement around how to address these challenges, departure from arduous progress, and even occasional denial that there is a climatic problem that can be mitigated. What we do is 100% in our control, so studying social infrastructure from the perspective of social networks at an institutional/organizational level could provide practical and actionable insights for decision makers and the public.
+Since the time of Heraclitus, perhaps even earlier, we have suspected that change is constant (Graham, 2023). Effects of climate change today are increasingly apparent from reports of natural disasters, record-breaking storm intensity, displaced people, outbreaks of contagious disease, conflict and disagreement around how to address these challenges, departure from arduous progress, and even occasional denial that there is a climatic problem that can be mitigated. 
+
+***What we do is 100% in our control, so studying social infrastructure from the perspective of social networks at an institutional/organizational level could provide practical and actionable insights for decision makers and the public.***
 
 ## Protocol Summary
 
@@ -33,6 +35,8 @@ Utilize exponetial random graph models (ERGMs) to compare the observed network t
 
 
 # References
-Graham, D. W. (2023). *Heraclitus*. Stanford Encyclopedia of Philosophy. <https://plato.standord.edu/entries/heraclitus/>  
+Graham, D. W. (2023). *Heraclitus*. Stanford Encyclopedia of Philosophy. <https://plato.stanford.edu/entries/heraclitus/>  
+
 Town of Bennington, VT. (n.d.). *Assessors*. Retrieved on December 1, 2024 from <https://benningtonvt.org/services/assessors.php#collapse290b0>  
+
 Vermont Secretary of State. (n.d.). *Corporations Division*. Vermont.gov. Retrieved December 1, 2024 from <https://bizfilings.vermont.gov/online/BusinessInquire>
