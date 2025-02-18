@@ -2,16 +2,19 @@
 
 *What is social infrastructure*: The facilities, groups, and organizations, excluding goervnment agencies, that foster social cohesion and support.
 
-**Research Question**: What can the nature of social infrastructure tell us about a population's ability to adapt to changes?
+**Research Question** 
+
+> What can the nature of social infrastructure tell us about a population's ability to adapt to changes?
 
 <ins>**Project Description**<ins>  
+
 Mapping and evaluating social infrastructure beginning at the County level with the potential to scale globally.
 
 ## Introduction
 
 Since the time of Heraclitus, perhaps even earlier, we have suspected that change is constant (Graham, 2023). Effects of climate change today are increasingly apparent from reports of natural disasters, record-breaking storm intensity, displaced people, outbreaks of contagious disease, conflict and disagreement around how to address these challenges, departure from arduous progress, and even occasional denial that there is a climatic problem that can be mitigated. 
 
-***What we do is 100% in our control, so studying social infrastructure from the perspective of social networks at an institutional/organizational level could provide practical and actionable insights for decision makers and the public.***
+> ***What we do is 100% in our control, so studying social infrastructure from the perspective of social networks at an institutional/organizational level could provide practical and actionable insights for decision makers and the public.***
 
 ## Protocol Summary
 
